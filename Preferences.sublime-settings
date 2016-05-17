@@ -12,5 +12,6 @@
 	"tab_size": 2,
 	"theme": "Soda Light 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"word_wrap": "true"
+	"word_wrap": "true",
+	"folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", "node_modules"]
 }
