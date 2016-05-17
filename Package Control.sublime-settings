@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"http_proxy": "http://127.0.0.1:1080",
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"Emmet",
+		"FuzzyFilePath",
+		"HTML-CSS-JS Prettify",
+		"Jade",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Monokai JSON+",
+		"Package Control",
+		"Pretty JSON",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SyncedSideBar",
+		"Terminal",
+		"Theme - Soda",
+		"TortoiseSVN",
+		"Vue Syntax Highlight"
+	]
+}
