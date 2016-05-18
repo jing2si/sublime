@@ -11,6 +11,8 @@
 		"ConvertToUTF8",
 		"Emmet",
 		"FuzzyFilePath",
+		"Git",
+		"GitGutter",
 		"HTML-CSS-JS Prettify",
 		"Jade",
 		"Markdown Preview",
