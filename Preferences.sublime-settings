@@ -1,18 +1,17 @@
 {
-  "always_show_minimap_viewport": true,
-  "color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
-  "dpi_scale": 1.0,
-  "draw_minimap_border": true,
-  "folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", "node_modules"],
-  "font_face": "YaHei Consolas Hybrid",
-  "font_size": 15,
-  "ignored_packages": [
-    "Vintage"
-  ],
-  "tab_size": 2,
-  "theme": "Soda Light 3.sublime-theme",
-  "translate_tabs_to_spaces": true,
-  "word_wrap": "true",
-  "trim_trailing_white_space_on_save": true,
-	"ensure_newline_at_eof_on_save": true
+	"always_show_minimap_viewport": true,
+	"auto_find_in_selection": true,
+	"dpi_scale": 1.0,
+	"draw_minimap_border": true,
+	"ensure_newline_at_eof_on_save": true,
+	"folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", "node_modules"],
+	"font_face": "YaHei Consolas Hybrid",
+	"font_size": 20,
+	"highlight_modified_tabs": true,
+	"ignored_packages": ["Vintage"],
+	"tab_size": 2,
+	"theme": "Soda Light 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": "true"
 }
