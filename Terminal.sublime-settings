@@ -1,0 +1,4 @@
+{
+  "terminal": "G:\\Greensoft\\cmder_mini\\Cmder.exe",
+  "parameters": ["/START", "%CWD%"]
+}
