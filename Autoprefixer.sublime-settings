@@ -1,0 +1,4 @@
+{
+  "browsers": ["Android >= 2.3", "iOS >= 4.3"],
+  "cascade": false,
+}
