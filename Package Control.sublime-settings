@@ -1,6 +1,5 @@
 {
 	"bootstrapped": true,
-	"http_proxy": "http://127.0.0.1:1080",
 	"in_process_packages":
 	[
 	],
@@ -24,6 +23,7 @@
 		"Pretty JSON",
 		"Sass",
 		"SideBarEnhancements",
+		"Stylus",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
