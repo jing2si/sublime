@@ -1,0 +1,22 @@
+[
+  {
+    "keys": [
+      "super+shift+e"
+    ],
+    "command": "expand_region"
+  },
+  {
+    "keys": [
+      "super+shift+u"
+    ],
+    "command": "expand_region",
+    "args": {
+      "undo": true
+    },
+    "context": [
+      {
+        "key": "expand_region_soft_undo"
+      }
+    ]
+  }
+]
