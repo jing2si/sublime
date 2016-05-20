@@ -1,7 +1,7 @@
 {
 	"always_show_minimap_viewport": true,
 	"auto_find_in_selection": true,
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai JSON+ (SL).tmTheme",
 	"dpi_scale": 1.0,
 	"draw_minimap_border": true,
 	"ensure_newline_at_eof_on_save": true,
