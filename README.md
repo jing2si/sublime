@@ -1,1 +1,1 @@
-### sublime text 设置
+### sublime text 设置、插件
