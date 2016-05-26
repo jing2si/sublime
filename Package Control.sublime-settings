@@ -1,0 +1,37 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Autoprefixer",
+		"Babel",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"Emmet",
+		"ExpandRegion", // 选择
+		"Git",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"IMESupport", // 中文输入法跟随
+		"Jade",
+		"JSON Reindent",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Monokai JSON+",
+		"Package Control",
+		"Pretty JSON",
+		"Sass",
+		"SideBarEnhancements",
+		"Stylus",
+		"SublimeCodeIntel", // 代码提示
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SyncedSideBar",
+		"Terminal", // 快捷打开命令行
+		"Theme - Soda",
+		"TortoiseSVN",
+		"Vue Syntax Highlight"
+	]
+}

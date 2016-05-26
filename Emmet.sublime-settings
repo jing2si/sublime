@@ -1,0 +1,10 @@
+{
+  "preferences": {
+    "css.autoInsertVendorPrefixes": false // 关闭emmet自动前缀
+  },
+  "snippets": {
+    "variables": {
+      "lang": "zh-CN" // html默认语言
+    }
+ }
+}
