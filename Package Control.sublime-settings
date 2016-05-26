@@ -10,11 +10,11 @@
 		"BracketHighlighter",
 		"ConvertToUTF8",
 		"Emmet",
-		"ExpandRegion",
+		"ExpandRegion", // 选择
 		"Git",
 		"GitGutter",
 		"HTML-CSS-JS Prettify",
-		"IMESupport",
+		"IMESupport", // 中文输入法跟随
 		"Jade",
 		"JSON Reindent",
 		"Markdown Preview",
@@ -25,11 +25,11 @@
 		"Sass",
 		"SideBarEnhancements",
 		"Stylus",
-		"SublimeCodeIntel",
+		"SublimeCodeIntel", // 代码提示
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
 		"SyncedSideBar",
-		"Terminal",
+		"Terminal", // 快捷打开命令行
 		"Theme - Soda",
 		"TortoiseSVN",
 		"Vue Syntax Highlight"

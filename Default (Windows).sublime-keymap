@@ -3,7 +3,7 @@
     "keys": [
       "super+shift+e"
     ],
-    "command": "expand_region"
+    "command": "expand_region" // 选择
   },
   {
     "keys": [
@@ -15,7 +15,7 @@
     },
     "context": [
       {
-        "key": "expand_region_soft_undo"
+        "key": "expand_region_soft_undo" // 撤销选择
       }
     ]
   }
