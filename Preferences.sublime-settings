@@ -11,7 +11,8 @@
 		".git",
 		".hg",
 		"CVS",
-		"node_modules"
+		"node_modules",
+		"【打包输出】"
 	],
 	"font_face": "YaHei Consolas Hybrid",
 	"font_size": 14,
