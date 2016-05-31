@@ -5,16 +5,17 @@
 	],
 	"installed_packages":
 	[
+		"Alignment",
 		"Autoprefixer",
 		"Babel",
 		"BracketHighlighter",
 		"ConvertToUTF8",
 		"Emmet",
-		"ExpandRegion", // 选择
+		"ExpandRegion",
 		"Git",
 		"GitGutter",
 		"HTML-CSS-JS Prettify",
-		"IMESupport", // 中文输入法跟随
+		"IMESupport",
 		"Jade",
 		"JSON Reindent",
 		"Markdown Preview",
@@ -25,11 +26,11 @@
 		"Sass",
 		"SideBarEnhancements",
 		"Stylus",
-		"SublimeCodeIntel", // 代码提示
+		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
 		"SyncedSideBar",
-		"Terminal", // 快捷打开命令行
+		"Terminal",
 		"Theme - Soda",
 		"TortoiseSVN",
 		"Vue Syntax Highlight"

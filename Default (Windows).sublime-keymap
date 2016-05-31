@@ -3,7 +3,7 @@
     "keys": [
       "super+shift+e"
     ],
-    "command": "expand_region" // 选择
+    "command": "expand_region"
   },
   {
     "keys": [
@@ -15,8 +15,14 @@
     },
     "context": [
       {
-        "key": "expand_region_soft_undo" // 撤销选择
+        "key": "expand_region_soft_undo"
       }
     ]
+  },
+  {
+    "keys": [
+      "super+shift+a"
+    ],
+    "command": "alignment"
   }
 ]
