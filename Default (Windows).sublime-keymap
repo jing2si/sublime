@@ -18,11 +18,5 @@
         "key": "expand_region_soft_undo"
       }
     ]
-  },
-  {
-    "keys": [
-      "super+shift+a"
-    ],
-    "command": "alignment"
   }
 ]

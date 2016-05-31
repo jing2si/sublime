@@ -5,7 +5,6 @@
 	],
 	"installed_packages":
 	[
-		"Alignment",
 		"Autoprefixer",
 		"Babel",
 		"BracketHighlighter",
