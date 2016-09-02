@@ -1,4 +1,4 @@
 {
-  "terminal": "G:\\Greensoft\\cmder_mini\\Cmder.exe", // 命令行工具本地路径
+  "terminal": "G:\\Greensoft\\Cmder\\Cmder.exe", // 命令行工具本地路径
   "parameters": ["/START", "%CWD%"] // 设置当前目录打开命令行
 }
