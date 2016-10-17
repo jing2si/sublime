@@ -7,6 +7,7 @@
 	[
 		"Autoprefixer",
 		"Babel",
+		"Boxy Theme",
 		"BracketHighlighter",
 		"ConvertToUTF8",
 		"Emmet",
